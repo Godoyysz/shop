@@ -1,0 +1,57 @@
+/*!*********************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[7].use[3]!./src/app/componentes/footer.module.css ***!
+  \*********************************************************************************************************************************************************************************************************************************************************************************/
+.footer_html__dU2rv{
+    margin: 0;
+    padding: 0;
+}
+.footer_footer__LvufL{
+    background-color: #062036;
+    height: 180px;
+}
+.footer_alinhamentoDoFooter__uUW24{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    height: 100%;
+}
+.footer_blocoIcones__QSKaJ{
+    width: 15%;
+    background-color: rgb(218, 100, 100);
+}
+.footer_listaIcones__dk2oA{
+    list-style: none;
+    padding: 0px 0px 0px 15px;
+}
+.footer_alinhamentoDosIcones__tDKAc{
+    display: flex;
+    flex-direction: column;
+}
+.footer_iconeFooter__aCpAv{
+    padding: 0px 0px 25px 0px;
+}
+.footer_blocoFundacaoEmpresa__Yep20{
+    display: flex;
+    align-items: end;
+    width: 70%;
+    background-color: rgb(187, 0, 255);
+}
+.footer_textoFundacaoEmpresa__0nPNR{
+    font-size: 20px;
+    color: white;
+    margin: 0;
+}
+.footer_blocoLogo__7rcEA{
+    background-color: rgb(0, 255, 238);
+    width: 15%;
+}
+/*!*********************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[7].use[3]!./src/app/componentes/header.module.css ***!
+  \*********************************************************************************************************************************************************************************************************************************************************************************/
+.header_header__WfLCT{
+    background-color: #062036;
+}
+/*!*******************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[7].use[3]!./src/app/componentes/main.module.css ***!
+  \*******************************************************************************************************************************************************************************************************************************************************************************/
+
