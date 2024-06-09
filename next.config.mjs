@@ -2,7 +2,10 @@
 const nextConfig = {
     images:{
         domains:[
-            "fakestoreapi.com"
+            "fakestoreapi.com",
+            "br.pinterest.com",
+            "i.pinimg.com",
+            "backiee.com"
         ]
     }
 };

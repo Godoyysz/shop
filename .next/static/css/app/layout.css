@@ -49,5 +49,21 @@
   !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[7].use[3]!./src/app/componentes/header.module.css ***!
   \*********************************************************************************************************************************************************************************************************************************************************************************/
 .header_header__WfLCT{
-    background-color: #062036;
+    background-color: #393838;
+    padding: 10px;
+}
+
+.header_botaoAdicionarProduto__LX7QB{
+    margin: 0;
+}
+/*!*********************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[7].use[3]!./src/app/layout.module.css ***!
+  \*********************************************************************************************************************************************************************************************************************************************************************/
+.layout_html__x6cKi{
+    background-color: #393838;
+    margin: 0;
+}
+
+.layout_body__1KmGn{
+    margin: 0;
 }

@@ -9,4 +9,14 @@
   \*******************************************************************************************************************************************************************************************************************************************************************************/
 .main_main__PbEbi{
     height: 100vh;
+    background-image: url("https://backiee.com/static/wallpapers/1000x563/282395.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    object-fit: cover;
+    background-size: cover;
+}
+
+
+.main_conteudoMain__g4Jk0{
+    background-color: red;
 }
