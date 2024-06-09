@@ -4,8 +4,6 @@ import style from "./footer.module.css";
 
 const Footer = () =>{
     return(
-        <html className={style.html} lang="en">
-            <body>
                 <footer className={style.footer}>
                     <div className={style.alinhamentoDoFooter}>          
                         <div className={style.blocoIcones}>
@@ -26,8 +24,6 @@ const Footer = () =>{
                         </div>
                     </div> 
                 </footer>
-            </body>
-        </html>
     );
 };
 

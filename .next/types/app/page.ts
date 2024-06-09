@@ -1,4 +1,4 @@
-// File: C:\Users\laboratorio\Documents\Crivelli_PTAC3\shop\src\app\page.js
+// File: C:\Users\- PC\OneDrive\Documentos\GitHub\PTAS_PLAYTOWIN\shop\src\app\page.js
 import * as entry from '../../../src/app/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

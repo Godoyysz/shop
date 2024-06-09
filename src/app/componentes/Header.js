@@ -4,13 +4,9 @@ import Image from "next/image";
 
 const Header = () =>{
     return(
-        <html>
-            <body>
-                <header className={style.header}>
-                    <h1>olá</h1>
-                </header>
-            </body>
-        </html>
+           <header className={style.header}>
+              <h1>olá</h1>
+           </header>          
         
     );
 };

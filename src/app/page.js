@@ -1,10 +1,11 @@
 import style from "./page.module.css";
-import Footer from "./componentes/Footer";
-import Header from "./componentes/Header";
+import Main from "./componentes/Main";
 
 export default async function Home() {
 
   return (
-    <main></main>
+    <div className={style.home}>
+      <Main/>
+    </div>
   );
 };
