@@ -5,7 +5,9 @@ const nextConfig = {
             "fakestoreapi.com",
             "br.pinterest.com",
             "i.pinimg.com",
-            "backiee.com"
+            "backiee.com",
+            "scontent.whatsapp.net",
+            "www.whatsapp.com"
         ]
     }
 };
