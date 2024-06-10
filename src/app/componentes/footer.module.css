@@ -3,7 +3,6 @@
     padding: 0;
 }
 .footer{
-    background-color: #062036;
     height: 180px auto;
 }
 .alinhamentoDoFooter{
@@ -14,7 +13,6 @@
 }
 .blocoIcones{
     width: 15%;
-    background-color: rgb(218, 100, 100);
 }
 .listaIcones{
     list-style: none;
@@ -29,9 +27,8 @@
 }
 .blocoFundacaoEmpresa{
     display: flex;
-    align-items: end;
+    align-items: flex-start;
     width: 70%;
-    background-color: rgb(187, 0, 255);
 }
 .textoFundacaoEmpresa{
     font-size: 20px;
@@ -39,6 +36,5 @@
     margin: 0;
 }
 .blocoLogo{
-    background-color: rgb(0, 255, 238);
     width: 15%;
 }

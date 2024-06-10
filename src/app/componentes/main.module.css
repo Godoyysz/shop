@@ -1,6 +1,6 @@
 .main{
     height: 100vh auto;
-    background-image: url("https://backiee.com/static/wallpapers/1000x563/282395.jpg");
+    background-image: linear-gradient(80deg,rgba(255, 0, 0, 0.719), rgba(255, 255, 0, 0.808));
     background-position: center;
     background-repeat: no-repeat;
     object-fit: cover;
@@ -25,4 +25,9 @@
     width: 250px;
     height: 400px;
     margin: 80px 80px 80px 10px;
+}
+
+.imagemProduto{
+    width: 100%;
+    height: 300px;
 }

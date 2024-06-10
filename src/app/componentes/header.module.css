@@ -1,6 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Tiny5&display=swap');
+
 .header{
     background-color: #393838;
     padding: 10px;
+    font-family: "Tiny5", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.conteudoHeader{
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo{
+    background-image: url("./imagens/logoGATO.jpeg");
+    width: 100px;
+    height: 100px;
 }
 
 .botaoAdicionarProduto{

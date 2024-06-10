@@ -1,4 +1,33 @@
 /*!*********************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[7].use[3]!./src/app/componentes/header.module.css ***!
+  \*********************************************************************************************************************************************************************************************************************************************************************************/
+@import url('https://fonts.googleapis.com/css2?family=Tiny5&display=swap');
+
+.header_header__WfLCT{
+    background-color: #393838;
+    padding: 10px;
+    font-family: "Tiny5", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.header_conteudoHeader__7ew7_{
+    display: flex;
+    justify-content: space-between;
+}
+
+.header_logo__Mk_G1{
+    background-image: url(webpack:///mini-css-extract-plugin//_next/static/media/logoGATO.3bbdad10.jpeg);
+    width: 100px;
+    height: 100px;
+}
+
+.header_botaoAdicionarProduto__LX7QB{
+    margin: 0;
+}
+/*!*********************************************************************************************************************************************************************************************************************************************************************************!*\
   !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[7].use[3]!./src/app/componentes/footer.module.css ***!
   \*********************************************************************************************************************************************************************************************************************************************************************************/
 .footer_html__dU2rv{
@@ -6,7 +35,6 @@
     padding: 0;
 }
 .footer_footer__LvufL{
-    background-color: #062036;
     height: 180px auto;
 }
 .footer_alinhamentoDoFooter__uUW24{
@@ -17,7 +45,6 @@
 }
 .footer_blocoIcones__QSKaJ{
     width: 15%;
-    background-color: rgb(218, 100, 100);
 }
 .footer_listaIcones__dk2oA{
     list-style: none;
@@ -32,9 +59,8 @@
 }
 .footer_blocoFundacaoEmpresa__Yep20{
     display: flex;
-    align-items: end;
+    align-items: flex-start;
     width: 70%;
-    background-color: rgb(187, 0, 255);
 }
 .footer_textoFundacaoEmpresa__0nPNR{
     font-size: 20px;
@@ -42,19 +68,7 @@
     margin: 0;
 }
 .footer_blocoLogo__7rcEA{
-    background-color: rgb(0, 255, 238);
     width: 15%;
-}
-/*!*********************************************************************************************************************************************************************************************************************************************************************************!*\
-  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[7].use[3]!./src/app/componentes/header.module.css ***!
-  \*********************************************************************************************************************************************************************************************************************************************************************************/
-.header_header__WfLCT{
-    background-color: #393838;
-    padding: 10px;
-}
-
-.header_botaoAdicionarProduto__LX7QB{
-    margin: 0;
 }
 /*!*********************************************************************************************************************************************************************************************************************************************************************!*\
   !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[7].use[3]!./src/app/layout.module.css ***!

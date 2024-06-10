@@ -14,8 +14,13 @@ export default async function Main(){
             <div className={style.conteudoMain}>
               {storeApi.map((produtos) =>
                 <div className={style.card}>
-                <Image width={100} height={100} src={produtos.image_url}/>
-                <h1>{produtos.nome_produto}</h1>
+                <Image className={style.imagemProduto} src={produtos.image_url}/>
+                <p>{produtos.nome_produto}</p>
+                <p>{produtos.preco_produto}</p>
+                <p>{produtos.categoria_produto}</p>
+                <p>{produtos.avaliacao_produto}</p>
+                <p>{produtos.quantidadeAvaliacoes_produto}</p>
+                <p>{produtos.preco_descricao}</p>
               </div>
             )}             
             </div>
